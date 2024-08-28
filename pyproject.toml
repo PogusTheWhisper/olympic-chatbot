@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "typhoon-streamlit-template"
+name = "olympic-chatbot"
 version = "0.1.0"
 description = ""
 authors = ["PogusTheWhisper <gusjangkid@gmail.com>"]
